@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.11
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP02-Exerc1", "TP02\TP02-Exerc1.csproj", "{9E5C874D-EA39-4D03-BC9D-3CD8362D74C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP02-Exerc01", "TP02\TP02-Exerc01.csproj", "{9E5C874D-EA39-4D03-BC9D-3CD8362D74C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP02-Exerc02", "TP02-Exerc02\TP02-Exerc02.csproj", "{ABB9E2F4-E9B5-44D1-A13C-0151EBF0B589}"
 EndProject
